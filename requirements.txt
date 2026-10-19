@@ -1,0 +1,7 @@
+mujoco
+gymnasium
+stable-baselines3
+matplotlib
+pandas
+imageio
+imageio-ffmpeg
